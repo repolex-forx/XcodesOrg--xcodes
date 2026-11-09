@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/XcodesOrg/xcodes/commit/a5b72c81a5b722f52aa97d179706df8d4d5540b0",
       "git:hexsha": "a5b72c81a5b722f52aa97d179706df8d4d5540b0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.1.0",
+      "repolex:parsedAt": "2026-11-09T15:35:01.454060+00:00"
     },
     {
       "@id": "https://repolex.ai/r/XcodesOrg/xcodes/commit/1bc2e8cbdd52c231dc0ace8a7da983ef4c498d7d",
